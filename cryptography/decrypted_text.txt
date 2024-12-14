@@ -1,0 +1,2 @@
+Ini adalah contoh file untuk pengujian AES.
+File ini akan dienkripsi dan didekripsi!

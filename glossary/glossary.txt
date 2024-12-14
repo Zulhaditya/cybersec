@@ -1,0 +1,2 @@
+Firewall:Sistem keamanan untuk memantau dan mengontrol traffic jaringan.
+Port:Mekanisme yang memungkinkan komputer untuk terhubung dengan perangkat lain.
